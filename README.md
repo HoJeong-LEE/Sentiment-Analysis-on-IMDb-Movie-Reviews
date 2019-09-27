@@ -3,8 +3,7 @@
 
 **영화 후기에 쓰인 문장이 긍정적인지 부정적인지를 구별하는 모델 만들어보기**
 
-모델을 만들기 위해서
+모델을 만들기 위해서 사용하는 것들
 - IMDb dataset
 - Pytorch와 TorchText
-- Long Short-Term Memory architecture<br/>
-를 사용한다.
+- Long Short-Term Memory architecture
