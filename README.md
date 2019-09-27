@@ -6,4 +6,5 @@
 모델을 만들기 위해서
 - IMDb dataset
 - Pytorch와 TorchText
-- Long Short-Term Memory architecture  를 사용한다.
+- Long Short-Term Memory architecture<br/>
+를 사용한다.
