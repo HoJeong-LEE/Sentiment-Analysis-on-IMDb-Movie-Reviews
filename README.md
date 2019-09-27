@@ -12,3 +12,5 @@
 참고한 자료
 - [Ben Trevett의 'Simple Sentiment Analysis'](https://github.com/bentrevett/pytorch-sentiment-analysis/blob/master/1%20-%20Simple%20Sentiment%20Analysis.ipynb)
 - [Ben Trevett의 'Upgrade Sentiment Analysis'](https://github.com/bentrevett/pytorch-sentiment-analysis/blob/master/2%20-%20Upgraded%20Sentiment%20Analysis.ipynb)
+---
+MIT License를 따름
