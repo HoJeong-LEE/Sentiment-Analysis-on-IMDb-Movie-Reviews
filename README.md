@@ -6,4 +6,5 @@
 분석을 위해 쓰는 것들
 - IMDb dataset
 - Pytorch와 TorchText
-- Long Short-Term Memory architecture
+- Standard RNN architecture (첫번째 시도)
+- Long Short-Term Memory architecture (두번째 시도)
